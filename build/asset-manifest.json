@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.eeb88bd3.css",
+    "main.js": "/static/js/main.b0dd7539.js",
+    "static/media/app.png": "/static/media/app.3b1142ed19f7d0bd320a.png",
+    "static/media/python rm.png": "/static/media/python rm.8c28dbad3e004bda2fb4.png",
+    "static/media/aptitude.png": "/static/media/aptitude.98ceb69738129c7d9b5d.png",
+    "static/media/java.jpg": "/static/media/java.828572b6c6b45a86e693.jpg",
+    "static/media/live-chat_512px.png": "/static/media/live-chat_512px.dddcfe9515fc8c67fd1f.png",
+    "static/media/abs.jpg": "/static/media/abs.36a41f18df53ca3d0b51.jpg",
+    "static/media/ds.jpg": "/static/media/ds.5804f24032904bd43cfa.jpg",
+    "static/media/pen.jpg": "/static/media/pen.0ac071b72d134af76cff.jpg",
+    "static/media/web-dev.jpg": "/static/media/web-dev.9ef7b5cf56e245594840.jpg",
+    "static/media/ml.jpg": "/static/media/ml.2e5819bc9a4ff598498b.jpg",
+    "static/media/acrylicpaintings.png": "/static/media/acrylicpaintings.4c4fbcea40333e329638.png",
+    "index.html": "/index.html",
+    "main.eeb88bd3.css.map": "/static/css/main.eeb88bd3.css.map",
+    "main.b0dd7539.js.map": "/static/js/main.b0dd7539.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eeb88bd3.css",
+    "static/js/main.b0dd7539.js"
+  ]
+}
