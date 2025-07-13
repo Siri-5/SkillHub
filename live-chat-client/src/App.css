@@ -1,0 +1,92 @@
+* {
+  margin: 0;
+}
+
+.App {
+  background-color: #dddedd;
+  /* background-color: #1c2429; */
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.App-dark {
+  /* background-color: #dddedd; */
+  background-color: #1c2429;
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+/* myStyles.css */
+/* .hovered-user-details {
+  position: absolute;
+  top: 50px; /* Adjust as necessary */
+  /*right: 20px; /* Adjust as necessary */
+  /*background-color: white;
+  padding: 10px;
+  border: 1px solid #ccc;
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+  z-index: 10;
+} */
+/* myStyles.css */
+
+.list-container {
+  position: relative;
+}
+
+.list-tem {
+  position: relative;
+}
+
+.hovered-user-details {
+  position: absolute;
+  top: 100%;
+  left: 0;
+  width: 100%;
+  background-color: #fff;
+  padding: 10px;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  z-index: 10;
+  transform: translateY(10px);
+  transition: opacity 0.3s, transform 0.3s;
+}
+
+.hovered-user-details.dark {
+  background-color: #333;
+  color: #fff;
+  border-color: #444;
+}
+
+.hovered-user-details p {
+  margin: 0;
+}
+
+/* 
+.list-item {
+  position: relative;
+  margin-bottom: 10px; /* Adjust as needed */
+/* }
+
+.hovered-user-details {
+  background-color: #f9f9f9; /* Adjust as needed */
+  /* border: 1px solid #ddd; /* Adjust as needed */
+  /* padding: 10px;
+  position: absolute;
+  left: 0;
+  top: 100%; Adjust to move it below the user item */
+  /* width: 100%;
+  z-index: 10;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1); /* Optional: add shadow for better visibility */
+/* }
+
+.list-item:hover .hovered-user-details {
+  display: block;
+}
+
+.hovered-user-details p {
+  margin: 0;
+} */ 
